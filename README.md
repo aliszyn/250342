@@ -1,5 +1,5 @@
 # 250342
-some text in A
+same
 :) zmiana
 kolejna zmiana
 
