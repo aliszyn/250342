@@ -7,6 +7,6 @@ branchowa zmiana
 
 =======
 branchowa
-kolejna kolejna
+kolejna kolejna kolejna
 >>>>>>> main
 
